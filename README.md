@@ -1,2 +1,2 @@
-# CDCSPR
+# CDCSPM
 The objective of this repository is to perform exploratory analysis on multiple-cause mortality dataset and data mining using sequential pattern Mining (SPM).
